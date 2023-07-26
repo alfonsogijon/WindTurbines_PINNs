@@ -7,7 +7,7 @@ While NN models learns only from data, PINNs are able to reproduce both data and
 P = gT\omega,
 ```
 ```math
-P = \frac{1}{2}C_p\rho A v^3 \,.
+P = \frac{1}{2}C_p\rho A v^3.
 ```
 Indroducing an evidential output layer provided efficient and solid uncertainty quantification of the predictions, making possible the definition of confidence intervals in the power curve:
 
