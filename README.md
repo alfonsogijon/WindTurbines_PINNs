@@ -11,6 +11,6 @@ P = \frac{1}{2}C_p\rho A v^3.
 ```
 Indroducing an evidential output layer provided efficient and solid uncertainty quantification of the predictions, making possible the definition of confidence intervals in the power curve:
 
-![plot](./Figures/Power-curve-model.png)
+    ![plot](./Figures/Power-curve-model.png)
 
 More details about the models can be found at the Arxiv preprint.
