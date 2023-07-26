@@ -4,7 +4,7 @@ This repository includes Python notebooks to build and train deep-learning model
 
 While NN models learns only from data, PINNs are able to reproduce both data and some physical constraints, expressed by the equations 
 
-$$P = gT\omega,$$ 
+$$P = gT\omega,$$
 $$P = \frac{1}{1}C_p\rho v^3~.$$ 
 
 Indroducing an evidential output layer provided efficient and solid uncertainty quantification of the predictions, making possible the definition of confidence intervals in the power curve:
