@@ -13,4 +13,4 @@ Indroducing an evidential output layer provided efficient and solid uncertainty 
 
 ![plot](./Figures/Power-curve-model.png)
 
-More details about the models can be found at the Arxiv preprint.
+More details about the models can be found at the preprint.
