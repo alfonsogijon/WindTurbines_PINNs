@@ -13,4 +13,18 @@ Indroducing an evidential output layer provided efficient and solid uncertainty 
 
 ![plot](./Figures/Power-curve-model.png)
 
-More details about the models can be found at the [arXiv preprint](https://arxiv.org/abs/2307.14675).
+## 👥 Authors
+
+Alfonso Gijón, Miguel Molina-Solana, Juan Gómez-Romero
+
+## 📝 Citation
+🔗 https://arxiv.org/abs/2307.14675
+
+```
+@article{Gijon2023_WindTurbines,
+  title={Prediction of Wind Turbines Power with Physics-Informed Neural Networks and Evidential Uncertainty Quantification},
+  author={Gij{\'o}n, Alfonso and Pujana-Goitia, Ainhoa and Perea, Eugenio and Molina-Solana, Miguel and G{\'o}mez-Romero, Juan},
+  journal={arXiv preprint arXiv:2307.14675},
+  year={2023},
+  url={https://arxiv.org/abs/2307.14675}
+}
